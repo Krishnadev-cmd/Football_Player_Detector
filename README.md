@@ -34,7 +34,7 @@ To run this script, you need to have Python and the required packages installed.
 1. **Prepare your video file**:
     - Place your video file (`videoplayback.mp4`) in the working directory or update the `video_path` variable in the script to point to your video file.
   
-    - ![Screenshot (8)](https://github.com/user-attachments/assets/6c17d8cf-1692-4fdc-89f4-c6f64827041f)
+      ![Screenshot (8)](https://github.com/user-attachments/assets/6c17d8cf-1692-4fdc-89f4-c6f64827041f)
 
 2. **Run the script**:
     ```bash
@@ -47,6 +47,8 @@ To run this script, you need to have Python and the required packages installed.
     - Perform object detection on each frame.
     - Annotate the frame with bounding boxes and labels.
     - Display the annotated video in a new window.
+  
+      ![Screenshot (11)](https://github.com/user-attachments/assets/126af400-0efb-4143-913e-9025e2aadc9c)
 
 3. **Exit the video display**:
     - Press `q` while the video window is active to exit the video display.
