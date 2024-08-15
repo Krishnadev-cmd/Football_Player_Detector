@@ -60,14 +60,6 @@ To run this script, you need to have Python and the required packages installed.
 - `ultralytics`: For YOLOv10 model.
 - `supervision`: For frame annotation.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Contact
 
 For any questions or suggestions, please contact [your-email@example.com].
