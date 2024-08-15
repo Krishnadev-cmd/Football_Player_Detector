@@ -33,6 +33,8 @@ To run this script, you need to have Python and the required packages installed.
 
 1. **Prepare your video file**:
     - Place your video file (`videoplayback.mp4`) in the working directory or update the `video_path` variable in the script to point to your video file.
+  
+    - ![Screenshot (8)](https://github.com/user-attachments/assets/6c17d8cf-1692-4fdc-89f4-c6f64827041f)
 
 2. **Run the script**:
     ```bash
